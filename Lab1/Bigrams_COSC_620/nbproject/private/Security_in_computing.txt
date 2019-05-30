@@ -1,0 +1,803 @@
+
+
+Xtelligent Media Become a member Login   
+
+Search...
+  Search
+ HITInfrastructure
+Home News Features	Interviews	White Papers & Webcasts Events
+Storage Virtualization Cloud Networking Security
+
+STORAGE NEWS
+How Edge Computing Enhances Health IT Infrastructure
+Embracing edge computing for health IT infrastructure can give IT staff more control and the ability to leverage data in near real-time.
+Edge computing
+Source: Thinkstock
+
+    
+ By Elizabeth O'Dowd
+
+September 04, 2018 - Healthcare organizations are adding more digital tools and trying to process growing amounts of data more quickly to meet enterprise demands.
+
+Many organizations have looked to the cloud for the best solution for democratizing data access and moving data around more quickly. While the cloud offers a number of advantages in these areas, it may not be sufficient for collecting, storing, and analyzing the huge volume of data produced by connected medical devices and the Internet of Things (IoT).
+
+Edge computing, also known as fog computing, is a promising strategy to help organizations distribute their network and data so information can be used and shared quickly and securely.
+
+“Organizations that have embarked on a digital business journey have realized that a more decentralized approach is required to address digital business infrastructure requirements,” says Santhosh Rao, principal research analyst at Gartner. “As the volume and velocity of data increases, so too does the inefficiency of streaming all this information to a cloud or data center for processing.”
+
+Edge computing can solve the inefficiency of moving all data to a centralized point by creating a network of smaller datacenters with dedicated purposes and features that are tailored to meet specific demands. Digital projects that create or require data can be processed much faster when the computing power is close to the device or person generating it.
+
+READ MORE: Blockchain, Edge Decentralized Options for HIT Infrastructure
+
+However, planning, building, deploying, and maintaining edge computing can be a challenge. Edge functions differently than a traditional datacenter, and represents a significant shift in how information is processed and delivered to end-users.
+
+How does edge computing work, and how can healthcare organizations embrace this new concept in the clinical setting?
+
+What is edge computing?
+
+Traditional network architecture consists of a central datacenter and a ring of devices, systems, and tools that feed their data into this hub to be stored, processed, and returned to the user.
+
+Internet of Things devices and other connected medical devices form the “edge” of this network, producing data and sending it into the centralized repository for processing.   
+
+READ MORE: Collaborative Edge Computing Supports Health IT Advancement
+
+But transmitting high volumes of data to a centralized location before it can be analyzed - and then sending it back to the device - is inefficient and may lead to bottlenecking.  Decentralizing the data transmission pathway can help to save time and bandwidth, delivering faster results to clinicians or patients.
+
+Adding data centers to the edge can reduce transmission times and give clinicians and other healthcare staff the opportunity to process data close to where the data was produced.
+
+The three main advantages of edge computing are increased security, easier access to live data, and transmission efficiency, according to a recent Business Insider report.  
+
+Each edge data center handles less data, which can enhance security.  The volume of potentially vulnerable data in each location is lower, making it harder to cyber attackers to compromise significant assets or infect the entire network.
+
+Security events can also be monitored close to the source so IT staff can react more quickly to security breaches. Collecting and analyzing security data on-premises can give IT staff the opportunity to assess threats in near real-time. Near real-time security information promotes a more proactive approach to data security.
+
+READ MORE: How an Aging Population Will Revolutionize IoT and Edge Solutions
+
+Data access can also be improved with edge computing because the data isn’t as far away from the source or the clinician accessing it.
+
+For example, sharing data with a data center can be equated to delivering a physical letter. A person can deliver a letter to a neighbor much faster by carrying it to the neighbor’s house rather than putting the letter in a mailbox and waiting several days for the post office to process and deliver the message.
+
+Data stored at the edge can also be accessed if the network is offline because it’s stored locally and doesn’t heavily depend on wireless networks. Wireless connections are often needed for cloud computing, but the closeness of edge data makes it more available offline.
+
+This is especially useful in a healthcare setting because clinicians often depend on network connections for urgent access to patient information.
+
+The closeness of the edge data center can reduce the cost of data transmission. Less data needs to be sent to the centralized cloud so organizations can lower their cloud storage requirements.
+
+Healthcare uses for edge computing
+
+Edge computing is becoming increasingly important for health IT infrastructure for local and remote patient monitoring and telemedicine, according to an article from the Journal of Diabetes and Scientific Technology.
+
+“Edge computing is expected to be a key enabler of processes where a rapid response to sensor input is necessary, such as wireless health monitoring, virtual reality, and robotics,” said report authors. “As the amount of data generated by the IoT increases, the need for distributed computing based on fog computing and edge computing architectures will progressively increase.”
+
+For example, implementing a closed-loop system in an ICU that uses smart sensors to monitor acutely ill patients can help clinicians respond to changes in condition immediately is a useful implementation of edge computing, according to the journal.
+
+“Edge computing in an ICU can be achieved by connecting a system’s sensors to small, local control systems that handle processing, and communication,” explained the authors. “The result of edge computing can be rapid machine-to-machine communication or machine-to-human interaction. This paradigm takes localized processing farther away from the network right down to the sensor by pushing the computing processes even closer to the data sources.”
+
+The sensor can act as a dispatcher that can send information to another edge device or to the cloud if need be. This allows each edge device to do its part in processing information instead of sending all its data to a centralized server.
+
+Edge computing also helps deliver applications and services to remote areas by distributing workloads in branch data center locations. Bringing these services closer to patients, and implementing virtualization technology like hyperconvergence, can help remote patients communicate more effectively with providers.
+
+The healthcare edge brings telemedicine capabilities closer to users. Doctors located in large metropolitan areas can reliably treat patients in remote or rural locations. Specialized care can be brought to the edge for telemedicine programs that patients would normally need to travel for,” says HITInfrastructure.com contributor Bill Kleyman.  
+
+“The edge doesn’t have to be a massive data center or even a cloud instance,” Kleyman explained. “It can be something small that helps you bring data and healthcare applications closer to the end-user.”
+
+Simple edge devices can greatly impact telemedicine through patient monitoring in a more basic way.
+
+“A wearable health monitor is an example of a basic edge solution. It can locally analyze data like heart rate or sleep patterns and provide recommendations without a frequent need to connect to the cloud,” says Gartner’s Rao. “Edge computing has enormous potential to enable digital initiatives supported by IoT.”
+
+How to approach the edge
+
+Edge is a complement to cloud computing, not a replacement. Cloud has significant benefits to healthcare IT, but cloud alone is not always the best solution for offloading core applications.
+
+To begin building an edge computing ecosystem, organizations need to define a use case that touches on an aspect of an organization including IT, patient care, and management.
+
+Healthcare organizations should consider which of their healthcare functions can benefit from edge services, such as the delivery of EHR systems, digital imaging, X-rays, and support for telemedicine solutions.
+
+Organizations should assess how fast the organization is growing, how supportive the network needs to be for remote users, and what connected devices will be added in the near or distant future.
+
+Once these points are addressed, organizations can begin to identify vendors that might best suit their needs.
+
+Connecting with vendors that can showcase a strong healthcare based edge computing background is critical to building a successful edge network. Many IT departments may not already have staff that can successfully architect and deploy an edge solution. Organizations that attempt to deploy an edge network without sufficient the expertise can end up wasting money. Initial edge network deployment can be costly and so are the mistakes associated with it.
+
+“Edge is not like a typical data center. There are different considerations around space, density, power, management, connectivity, redundancy, and much more,” says Kleyman. “This is why working with the right people can make the entire process so much easier.”
+
+Once the project is set in motion, organizations need to define. Edge computing approaches data access and storage differently than legacy solutions so organizations need to take the time to define data requirements and management policies. Deciding if the data is transient or being stored at the edge, what data is being processed, and what the connectivity control method around the data is needs to be defined and integrated into the edge solution, according to Kleyman.
+
+Defining these elements and integrating them leads to adding and testing compliant security for the edge. Organizations should consider the location of the edge, the storage systems at the edge, how much data will me processed, and who will have access in order to build a compliant edge security system.
+
+Once organizations clearly define what they want from edge computing and what they need to do to support it, they can take advantage of benefits that include:
+
+Data proximity and efficiency
+IoT data and health care provider system integration
+Better and more informed data around patient health
+Telemedicine
+Patient monitoring that leverages medical devices such as insulin pumps, smart lenses and pacemakers
+Wearables and connected apps that track various health metrics
+Edge computing help improve patient care as well as increase efficiency from a business perspective. By spreading out the network, organizations can enhance productivity by concentrating resources on certain tasks and making health IT systems more efficient by decentralizing IT infrastructure.
+
+“Edge computing can help you reduce transmission costs, improve delivery services, and impacts peoples’ lives,” said Kleyman. “Most of all, you make healthcare so much easier to consume by bringing it closer to the people that need it the most.”
+
+Tagged Edge Computing EHR Healthcare Cloud Healthcare Cloud Applications
+    
+Related Articles
+UC San Diego Begins Cloud Infrastructure Migration with Epic EHR
+Healthcare Cloud IT Infrastructure Grows as Data Demands Rise
+Healthcare Cloud Addresses Specific HIT Infrastructure Needs
+Related Resources
+Contact Centers in Healthcare: A Report for Hospital Leaders
+How Northwell is Eliminating Duplicate Records Once and For All
+Improve EDPS/RAPS Submission Rates and Recapture Revenue
+
+Sign up to receive our newsletter and access our resources
+
+Your email
+ 
+
+Newsletter Signup
+
+ IT Infrastructure (Weekly)
+ mHealth & Telehealth (Weekly)
+ EHR and Meaningful Use (Twice Weekly)
+ Revenue Cycle (Twice Weekly)
+ Health Analytics (Twice Weekly)
+ Patient Engagement (Weekly)
+ Health IT Security (Twice Weekly)
+
+Your email
+view our privacy policy
+
+
+Most Read Stories
+
+Top 10 Cloud Data Storage Companies
+Anthem, doc.ai Launch Healthcare AI Data Trial on Blockchain
+How Will Amazon, Google, Microsoft Impact EHR Interoperability, FHIR?
+APIs Are the “Missing Piece” for Healthcare App Interoperability  
+Popular Topics
+
+Healthcare Cloud
+Healthcare Network Security
+Healthcare Internet of Things
+Wireless Networking
+Data Storage
+Virtualization
+Interoperability
+Healthcare Cloud Applications
+Health IT Infrastructure
+EHR
+Most Read Features
+
+Healthcare Data Storage Options: On-Premise, Cloud and Hybrid Data Storage
+Planning for Data Backup, Recovery in Health IT Infrastructure
+Why Application Programming Interfaces Are Key for Healthcare
+Addressing Healthcare Network Connectivity Challenges
+
+
+
+Xtelligent Media Become a member Login   
+
+Search...
+  Search
+ HITInfrastructure
+Home News Features	Interviews	White Papers & Webcasts Events
+Storage Virtualization Cloud Networking Security
+
+STORAGE NEWS
+How Edge Computing Enhances Health IT Infrastructure
+Embracing edge computing for health IT infrastructure can give IT staff more control and the ability to leverage data in near real-time.
+Edge computing
+Source: Thinkstock
+
+    
+ By Elizabeth O'Dowd
+
+September 04, 2018 - Healthcare organizations are adding more digital tools and trying to process growing amounts of data more quickly to meet enterprise demands.
+
+Many organizations have looked to the cloud for the best solution for democratizing data access and moving data around more quickly. While the cloud offers a number of advantages in these areas, it may not be sufficient for collecting, storing, and analyzing the huge volume of data produced by connected medical devices and the Internet of Things (IoT).
+
+Edge computing, also known as fog computing, is a promising strategy to help organizations distribute their network and data so information can be used and shared quickly and securely.
+
+“Organizations that have embarked on a digital business journey have realized that a more decentralized approach is required to address digital business infrastructure requirements,” says Santhosh Rao, principal research analyst at Gartner. “As the volume and velocity of data increases, so too does the inefficiency of streaming all this information to a cloud or data center for processing.”
+
+Edge computing can solve the inefficiency of moving all data to a centralized point by creating a network of smaller datacenters with dedicated purposes and features that are tailored to meet specific demands. Digital projects that create or require data can be processed much faster when the computing power is close to the device or person generating it.
+
+READ MORE: Blockchain, Edge Decentralized Options for HIT Infrastructure
+
+However, planning, building, deploying, and maintaining edge computing can be a challenge. Edge functions differently than a traditional datacenter, and represents a significant shift in how information is processed and delivered to end-users.
+
+How does edge computing work, and how can healthcare organizations embrace this new concept in the clinical setting?
+
+What is edge computing?
+
+Traditional network architecture consists of a central datacenter and a ring of devices, systems, and tools that feed their data into this hub to be stored, processed, and returned to the user.
+
+Internet of Things devices and other connected medical devices form the “edge” of this network, producing data and sending it into the centralized repository for processing.   
+
+READ MORE: Collaborative Edge Computing Supports Health IT Advancement
+
+But transmitting high volumes of data to a centralized location before it can be analyzed - and then sending it back to the device - is inefficient and may lead to bottlenecking.  Decentralizing the data transmission pathway can help to save time and bandwidth, delivering faster results to clinicians or patients.
+
+Adding data centers to the edge can reduce transmission times and give clinicians and other healthcare staff the opportunity to process data close to where the data was produced.
+
+The three main advantages of edge computing are increased security, easier access to live data, and transmission efficiency, according to a recent Business Insider report.  
+
+Each edge data center handles less data, which can enhance security.  The volume of potentially vulnerable data in each location is lower, making it harder to cyber attackers to compromise significant assets or infect the entire network.
+
+Security events can also be monitored close to the source so IT staff can react more quickly to security breaches. Collecting and analyzing security data on-premises can give IT staff the opportunity to assess threats in near real-time. Near real-time security information promotes a more proactive approach to data security.
+
+READ MORE: How an Aging Population Will Revolutionize IoT and Edge Solutions
+
+Data access can also be improved with edge computing because the data isn’t as far away from the source or the clinician accessing it.
+
+For example, sharing data with a data center can be equated to delivering a physical letter. A person can deliver a letter to a neighbor much faster by carrying it to the neighbor’s house rather than putting the letter in a mailbox and waiting several days for the post office to process and deliver the message.
+
+Data stored at the edge can also be accessed if the network is offline because it’s stored locally and doesn’t heavily depend on wireless networks. Wireless connections are often needed for cloud computing, but the closeness of edge data makes it more available offline.
+
+This is especially useful in a healthcare setting because clinicians often depend on network connections for urgent access to patient information.
+
+The closeness of the edge data center can reduce the cost of data transmission. Less data needs to be sent to the centralized cloud so organizations can lower their cloud storage requirements.
+
+Healthcare uses for edge computing
+
+Edge computing is becoming increasingly important for health IT infrastructure for local and remote patient monitoring and telemedicine, according to an article from the Journal of Diabetes and Scientific Technology.
+
+“Edge computing is expected to be a key enabler of processes where a rapid response to sensor input is necessary, such as wireless health monitoring, virtual reality, and robotics,” said report authors. “As the amount of data generated by the IoT increases, the need for distributed computing based on fog computing and edge computing architectures will progressively increase.”
+
+For example, implementing a closed-loop system in an ICU that uses smart sensors to monitor acutely ill patients can help clinicians respond to changes in condition immediately is a useful implementation of edge computing, according to the journal.
+
+“Edge computing in an ICU can be achieved by connecting a system’s sensors to small, local control systems that handle processing, and communication,” explained the authors. “The result of edge computing can be rapid machine-to-machine communication or machine-to-human interaction. This paradigm takes localized processing farther away from the network right down to the sensor by pushing the computing processes even closer to the data sources.”
+
+The sensor can act as a dispatcher that can send information to another edge device or to the cloud if need be. This allows each edge device to do its part in processing information instead of sending all its data to a centralized server.
+
+Edge computing also helps deliver applications and services to remote areas by distributing workloads in branch data center locations. Bringing these services closer to patients, and implementing virtualization technology like hyperconvergence, can help remote patients communicate more effectively with providers.
+
+The healthcare edge brings telemedicine capabilities closer to users. Doctors located in large metropolitan areas can reliably treat patients in remote or rural locations. Specialized care can be brought to the edge for telemedicine programs that patients would normally need to travel for,” says HITInfrastructure.com contributor Bill Kleyman.  
+
+“The edge doesn’t have to be a massive data center or even a cloud instance,” Kleyman explained. “It can be something small that helps you bring data and healthcare applications closer to the end-user.”
+
+Simple edge devices can greatly impact telemedicine through patient monitoring in a more basic way.
+
+“A wearable health monitor is an example of a basic edge solution. It can locally analyze data like heart rate or sleep patterns and provide recommendations without a frequent need to connect to the cloud,” says Gartner’s Rao. “Edge computing has enormous potential to enable digital initiatives supported by IoT.”
+
+How to approach the edge
+
+Edge is a complement to cloud computing, not a replacement. Cloud has significant benefits to healthcare IT, but cloud alone is not always the best solution for offloading core applications.
+
+To begin building an edge computing ecosystem, organizations need to define a use case that touches on an aspect of an organization including IT, patient care, and management.
+
+Healthcare organizations should consider which of their healthcare functions can benefit from edge services, such as the delivery of EHR systems, digital imaging, X-rays, and support for telemedicine solutions.
+
+Organizations should assess how fast the organization is growing, how supportive the network needs to be for remote users, and what connected devices will be added in the near or distant future.
+
+Once these points are addressed, organizations can begin to identify vendors that might best suit their needs.
+
+Connecting with vendors that can showcase a strong healthcare based edge computing background is critical to building a successful edge network. Many IT departments may not already have staff that can successfully architect and deploy an edge solution. Organizations that attempt to deploy an edge network without sufficient the expertise can end up wasting money. Initial edge network deployment can be costly and so are the mistakes associated with it.
+
+“Edge is not like a typical data center. There are different considerations around space, density, power, management, connectivity, redundancy, and much more,” says Kleyman. “This is why working with the right people can make the entire process so much easier.”
+
+Once the project is set in motion, organizations need to define. Edge computing approaches data access and storage differently than legacy solutions so organizations need to take the time to define data requirements and management policies. Deciding if the data is transient or being stored at the edge, what data is being processed, and what the connectivity control method around the data is needs to be defined and integrated into the edge solution, according to Kleyman.
+
+Defining these elements and integrating them leads to adding and testing compliant security for the edge. Organizations should consider the location of the edge, the storage systems at the edge, how much data will me processed, and who will have access in order to build a compliant edge security system.
+
+Once organizations clearly define what they want from edge computing and what they need to do to support it, they can take advantage of benefits that include:
+
+Data proximity and efficiency
+IoT data and health care provider system integration
+Better and more informed data around patient health
+Telemedicine
+Patient monitoring that leverages medical devices such as insulin pumps, smart lenses and pacemakers
+Wearables and connected apps that track various health metrics
+Edge computing help improve patient care as well as increase efficiency from a business perspective. By spreading out the network, organizations can enhance productivity by concentrating resources on certain tasks and making health IT systems more efficient by decentralizing IT infrastructure.
+
+“Edge computing can help you reduce transmission costs, improve delivery services, and impacts peoples’ lives,” said Kleyman. “Most of all, you make healthcare so much easier to consume by bringing it closer to the people that need it the most.”
+
+Tagged Edge Computing EHR Healthcare Cloud Healthcare Cloud Applications
+    
+Related Articles
+UC San Diego Begins Cloud Infrastructure Migration with Epic EHR
+Healthcare Cloud IT Infrastructure Grows as Data Demands Rise
+Healthcare Cloud Addresses Specific HIT Infrastructure Needs
+Related Resources
+Contact Centers in Healthcare: A Report for Hospital Leaders
+How Northwell is Eliminating Duplicate Records Once and For All
+Improve EDPS/RAPS Submission Rates and Recapture Revenue
+
+Sign up to receive our newsletter and access our resources
+
+Your email
+ 
+
+Newsletter Signup
+
+ IT Infrastructure (Weekly)
+ mHealth & Telehealth (Weekly)
+ EHR and Meaningful Use (Twice Weekly)
+ Revenue Cycle (Twice Weekly)
+ Health Analytics (Twice Weekly)
+ Patient Engagement (Weekly)
+ Health IT Security (Twice Weekly)
+
+Your email
+view our privacy policy
+
+
+Most Read Stories
+
+Top 10 Cloud Data Storage Companies
+Anthem, doc.ai Launch Healthcare AI Data Trial on Blockchain
+How Will Amazon, Google, Microsoft Impact EHR Interoperability, FHIR?
+APIs Are the “Missing Piece” for Healthcare App Interoperability  
+Popular Topics
+
+Healthcare Cloud
+Healthcare Network Security
+Healthcare Internet of Things
+Wireless Networking
+Data Storage
+Virtualization
+Interoperability
+Healthcare Cloud Applications
+Health IT Infrastructure
+EHR
+Most Read Features
+
+Healthcare Data Storage Options: On-Premise, Cloud and Hybrid Data Storage
+Planning for Data Backup, Recovery in Health IT Infrastructure
+Why Application Programming Interfaces Are Key for Healthcare
+Addressing Healthcare Network Connectivity Challenges
+
+ShareThis Copy and Paste Become a member Login Home News Features	Interviews	White Papers & Webcasts Events Storage Virtualization Cloud Networking Security STORAGE NEWS How Edge Computing Enhances Health IT Infrastructure Embracing edge computing for health IT infrastructure can give IT staff more control and the ability to leverage data in near real-time. Source: Thinkstock By Elizabeth O'Dowd September 04, 2018 - Healthcare organizations are adding more digital tools and trying to process growing amounts of data more quickly to meet enterprise demands. Many organizations have looked to the cloud for the best solution for democratizing data access and moving data around more quickly. While the cloud offers a number of advantages in these areas, it may not be sufficient for collecting, storing, and analyzing the huge volume of data produced by connected medical devices and the Internet of Things (IoT). Edge computing, also known as fog computing, is a promising strategy to help organizations distribute their network and data so information can be used and shared quickly and securely. “Organizations that have embarked on a digital business journey have realized that a more decentralized approach is required to address digital business infrastructure requirements,” says Santhosh Rao, principal research analyst at Gartner. “As the volume and velocity of data increases, so too does the inefficiency of streaming all this information to a cloud or data center for processing.” Edge computing can solve the inefficiency of moving all data to a centralized point by creating a network of smaller datacenters with dedicated purposes and features that are tailored to meet specific demands. Digital projects that create or require data can be processed much faster when the computing power is close to the device or person generating it. READ MORE: Blockchain, Edge Decentralized Options for HIT Infrastructure However, planning, building, deploying, and maintaining edge computing can be a challenge. Edge functions differently than a traditional datacenter, and represents a significant shift in how information is processed and delivered to end-users. How does edge computing work, and how can healthcare organizations embrace this new concept in the clinical setting? What is edge computing? Traditional network architecture consists of a central datacenter and a ring of devices, systems, and tools that feed their data into this hub to be stored, processed, and returned to the user. Internet of Things devices and other connected medical devices form the “edge” of this network, producing data and sending it into the centralized repository for processing.    READ MORE: Collaborative Edge Computing Supports Health IT Advancement But transmitting high volumes of data to a centralized location before it can be analyzed - and then sending it back to the device - is inefficient and may lead to bottlenecking.  Decentralizing the data transmission pathway can help to save time and bandwidth, delivering faster results to clinicians or patients. Adding data centers to the edge can reduce transmission times and give clinicians and other healthcare staff the opportunity to process data close to where the data was produced. The three main advantages of edge computing are increased security, easier access to live data, and transmission efficiency, according to a recent Business Insider report.   Each edge data center handles less data, which can enhance security.  The volume of potentially vulnerable data in each location is lower, making it harder to cyber attackers to compromise significant assets or infect the entire network. Security events can also be monitored close to the source so IT staff can react more quickly to security breaches. Collecting and analyzing security data on-premises can give IT staff the opportunity to assess threats in near real-time. Near real-time security information promotes a more proactive approach to data security. READ MORE: How an Aging Population Will Revolutionize IoT and Edge Solutions Data access can also be improved with edge computing because the data isn’t as far away from the source or the clinician accessing it. For example, sharing data with a data center can be equated to delivering a physical letter. A person can deliver a letter to a neighbor much faster by carrying it to the neighbor’s house rather than putting the letter in a mailbox and waiting several days for the post office to process and deliver the message. Data stored at the edge can also be accessed if the network is offline because it’s stored locally and doesn’t heavily depend on wireless networks. Wireless connections are often needed for cloud computing, but the closeness of edge data makes it more available offline. This is especially useful in a healthcare setting because clinicians often depend on network connections for urgent access to patient information. The closeness of the edge data center can reduce the cost of data transmission. Less data needs to be sent to the centralized cloud so organizations can lower their cloud storage requirements. Healthcare uses for edge computing Edge computing is becoming increasingly important for health IT infrastructure for local and remote patient monitoring and telemedicine, according to an article from the Journal of Diabetes and Scientific Technology. “Edge computing is expected to be a key enabler of processes where a rapid response to sensor input is necessary, such as wireless health monitoring, virtual reality, and robotics,” said report authors. “As the amount of data generated by the IoT increases, the need for distributed computing based on fog computing and edge computing architectures will progressively increase.” For example, implementing a closed-loop system in an ICU that uses smart sensors to monitor acutely ill patients can help clinicians respond to changes in condition immediately is a useful implementation of edge computing, according to the journal. “Edge computing in an ICU can be achieved by connecting a system’s sensors to small, local control systems that handle processing, and communication,” explained the authors. “The result of edge computing can be rapid machine-to-machine communication or machine-to-human interaction. This paradigm takes localized processing farther away from the network right down to the sensor by pushing the computing processes even closer to the data sources.” The sensor can act as a dispatcher that can send information to another edge device or to the cloud if need be. This allows each edge device to do its part in processing information instead of sending all its data to a centralized server. Edge computing also helps deliver applications and services to remote areas by distributing workloads in branch data center locations. Bringing these services closer to patients, and implementing virtualization technology like hyperconvergence, can help remote patients communicate more effectively with providers. The healthcare edge brings telemedicine capabilities closer to users. Doctors located in large metropolitan areas can reliably treat patients in remote or rural locations. Specialized care can be brought to the edge for telemedicine programs that patients would normally need to travel for,” says HITInfrastructure.com contributor Bill Kleyman.   “The edge doesn’t have to be a massive data center or even a cloud instance,” Kleyman explained. “It can be something small that helps you bring data and healthcare applications closer to the end-user.” Simple edge devices can greatly impact telemedicine through patient monitoring in a more basic way. “A wearable health monitor is an example of a basic edge solution. It can locally analyze data like heart rate or sleep patterns and provide recommendations without a frequent need to connect to the cloud,” says Gartner’s Rao. “Edge computing has enormous potential to enable digital initiatives supported by IoT.” How to approach the edge Edge is a complement to cloud computing, not a replacement. Cloud has significant benefits to healthcare IT, but cloud alone is not always the best solution for offloading core applications. To begin building an edge computing ecosystem, organizations need to define a use case that touches on an aspect of an organization including IT, patient care, and management. Healthcare organizations should consider which of their healthcare functions can benefit from edge services, such as the delivery of EHR systems, digital imaging, X-rays, and support for telemedicine solutions. Organizations should assess how fast the organization is growing, how supportive the network needs to be for remote users, and what connected devices will be added in the near or distant future. Once these points are addressed, organizations can begin to identify vendors that might best suit their needs. Connecting with vendors that can showcase a strong healthcare based edge computing background is critical to building a successful edge network. Many IT departments may not already have staff that can successfully architect and deploy an edge solution. Organizations that attempt to deploy an edge network without sufficient the expertise can end up wasting money. Initial edge network deployment can be costly and so are the mistakes associated with it. “Edge is not like a typical data center. There are different considerations around space, density, power, management, connectivity, redundancy, and much more,” says Kleyman. “This is why working with the right people can make the entire process so much easier.” Once the project is set in motion, organizations need to define. Edge computing approaches data access and storage differently than legacy solutions so organizations need to take the time to define data requirements and management policies. Deciding if the data is transient or being stored at the edge, what data is being processed, and what the connectivity control method around the data is needs to be defined and integrated into the edge solution, according to Kleyman. Defining these elements and integrating them leads to adding and testing compliant security for the edge. Organizations should consider the location of the edge, the storage systems at the edge, how much data will me processed, and who will have access in order to build a compliant edge security system. Once organizations clearly define what they want from edge computing and what they need to do to support it, they can take advantage of benefits that include: Data proximity and efficiency IoT data and health care provider system integration Better and more informed data around patient health Telemedicine Patient monitoring that leverages medical devices such as insulin pumps, smart lenses and pacemakers Wearables and connected apps that track various health metrics Edge computing help improve patient care as well as increase efficiency from a business perspective. By spreading out the network, organizations can enhance productivity by concentrating resources on certain tasks and making health IT systems more efficient by decentralizing IT infrastructure. “Edge computing can help you reduce transmission costs, improve delivery services, and impacts peoples’ lives,” said Kleyman. “Most of all, you make healthcare so much easier to consume by bringing it closer to the people that need it the most.” Tagged Edge Computing EHR Healthcare Cloud Healthcare Cloud Applications Related Articles UC San Diego Begins Cloud Infrastructure Migration with Epic EHR Healthcare Cloud IT Infrastructure Grows as Data Demands Rise Healthcare Cloud Addresses Specific HIT Infrastructure Needs Related Resources Contact Centers in Healthcare: A Report for Hospital Leaders How Northwell is Eliminating Duplicate Records Once and For All Improve EDPS/RAPS Submission Rates and Recapture Revenue Sign up to receive our newsletter and access our resources Newsletter Signup  IT Infrastructure (Weekly)  mHealth & Telehealth (Weekly)  EHR and Meaningful Use (Twice Weekly)  Revenue Cycle (Twice Weekly)  Health Analytics (Twice Weekly)  Patient Engagement (Weekly)  Health IT Security (Twice Weekly) view our privacy policy Most Read Stories Top 10 Cloud Data Storage Companies Anthem, doc.ai Launch Healthcare AI Data Trial on Blockchain How Will Amazon, Google, Microsoft Impact EHR Interoperability, FHIR? APIs Are the “Missing Piece” for Healthcare App Interoperability   Popular Topics Healthcare Cloud Healthcare Network Security Healthcare Internet of Things Wireless Networking Data Storage Virtualization Interoperability Healthcare Cloud Applications Health IT Infrastructure EHR Most Read Features Healthcare Data Storage Options: On-Premise, Cloud and Hybrid Data Storage Planning for Data Backup, Recovery in Health IT Infrastructure Why Application Programming Interfaces Are Key for Healthcare Addressing Healthcare Network Connectivity Challenges Become a member Login Home News Features	Interviews	White Papers & Webcasts Events Storage Virtualization Cloud Networking Security STORAGE NEWS How Edge Computing Enhances Health IT Infrastructure Embracing edge computing for health IT infrastructure can give IT staff more control and the ability to leverage data in near real-time. Source: Thinkstock By Elizabeth O'Dowd September 04, 2018 - Healthcare organizations are adding more digital tools and trying to process growing amounts of data more quickly to meet enterprise demands. Many organizations have looked to the cloud for the best solution for democratizing data access and moving data around more quickly. While the cloud offers a number of advantages in these areas, it may not be sufficient for collecting, storing, and analyzing the huge volume of data produced by connected medical devices and the Internet of Things (IoT). Edge computing, also known as fog computing, is a promising strategy to help organizations distribute their network and data so information can be used and shared quickly and securely. “Organizations that have embarked on a digital business journey have realized that a more decentralized approach is required to address digital business infrastructure requirements,” says Santhosh Rao, principal research analyst at Gartner. “As the volume and velocity of data increases, so too does the inefficiency of streaming all this information to a cloud or data center for processing.” Edge computing can solve the inefficiency of moving all data to a centralized point by creating a network of smaller datacenters with dedicated purposes and features that are tailored to meet specific demands. Digital projects that create or require data can be processed much faster when the computing power is close to the device or person generating it. READ MORE: Blockchain, Edge Decentralized Options for HIT Infrastructure However, planning, building, deploying, and maintaining edge computing can be a challenge. Edge functions differently than a traditional datacenter, and represents a significant shift in how information is processed and delivered to end-users. How does edge computing work, and how can healthcare organizations embrace this new concept in the clinical setting? What is edge computing? Traditional network architecture consists of a central datacenter and a ring of devices, systems, and tools that feed their data into this hub to be stored, processed, and returned to the user. Internet of Things devices and other connected medical devices form the “edge” of this network, producing data and sending it into the centralized repository for processing.    READ MORE: Collaborative Edge Computing Supports Health IT Advancement But transmitting high volumes of data to a centralized location before it can be analyzed - and then sending it back to the device - is inefficient and may lead to bottlenecking.  Decentralizing the data transmission pathway can help to save time and bandwidth, delivering faster results to clinicians or patients. Adding data centers to the edge can reduce transmission times and give clinicians and other healthcare staff the opportunity to process data close to where the data was produced. The three main advantages of edge computing are increased security, easier access to live data, and transmission efficiency, according to a recent Business Insider report.   Each edge data center handles less data, which can enhance security.  The volume of potentially vulnerable data in each location is lower, making it harder to cyber attackers to compromise significant assets or infect the entire network. Security events can also be monitored close to the source so IT staff can react more quickly to security breaches. Collecting and analyzing security data on-premises can give IT staff the opportunity to assess threats in near real-time. Near real-time security information promotes a more proactive approach to data security. READ MORE: How an Aging Population Will Revolutionize IoT and Edge Solutions Data access can also be improved with edge computing because the data isn’t as far away from the source or the clinician accessing it. For example, sharing data with a data center can be equated to delivering a physical letter. A person can deliver a letter to a neighbor much faster by carrying it to the neighbor’s house rather than putting the letter in a mailbox and waiting several days for the post office to process and deliver the message. Data stored at the edge can also be accessed if the network is offline because it’s stored locally and doesn’t heavily depend on wireless networks. Wireless connections are often needed for cloud computing, but the closeness of edge data makes it more available offline. This is especially useful in a healthcare setting because clinicians often depend on network connections for urgent access to patient information. The closeness of the edge data center can reduce the cost of data transmission. Less data needs to be sent to the centralized cloud so organizations can lower their cloud storage requirements. Healthcare uses for edge computing Edge computing is becoming increasingly important for health IT infrastructure for local and remote patient monitoring and telemedicine, according to an article from the Journal of Diabetes and Scientific Technology. “Edge computing is expected to be a key enabler of processes where a rapid response to sensor input is necessary, such as wireless health monitoring, virtual reality, and robotics,” said report authors. “As the amount of data generated by the IoT increases, the need for distributed computing based on fog computing and edge computing architectures will progressively increase.” For example, implementing a closed-loop system in an ICU that uses smart sensors to monitor acutely ill patients can help clinicians respond to changes in condition immediately is a useful implementation of edge computing, according to the journal. “Edge computing in an ICU can be achieved by connecting a system’s sensors to small, local control systems that handle processing, and communication,” explained the authors. “The result of edge computing can be rapid machine-to-machine communication or machine-to-human interaction. This paradigm takes localized processing farther away from the network right down to the sensor by pushing the computing processes even closer to the data sources.” The sensor can act as a dispatcher that can send information to another edge device or to the cloud if need be. This allows each edge device to do its part in processing information instead of sending all its data to a centralized server. Edge computing also helps deliver applications and services to remote areas by distributing workloads in branch data center locations. Bringing these services closer to patients, and implementing virtualization technology like hyperconvergence, can help remote patients communicate more effectively with providers. The healthcare edge brings telemedicine capabilities closer to users. Doctors located in large metropolitan areas can reliably treat patients in remote or rural locations. Specialized care can be brought to the edge for telemedicine programs that patients would normally need to travel for,” says HITInfrastructure.com contributor Bill Kleyman.   “The edge doesn’t have to be a massive data center or even a cloud instance,” Kleyman explained. “It can be something small that helps you bring data and healthcare applications closer to the end-user.” Simple edge devices can greatly impact telemedicine through patient monitoring in a more basic way. “A wearable health monitor is an example of a basic edge solution. It can locally analyze data like heart rate or sleep patterns and provide recommendations without a frequent need to connect to the cloud,” says Gartner’s Rao. “Edge computing has enormous potential to enable digital initiatives supported by IoT.” How to approach the edge Edge is a complement to cloud computing, not a replacement. Cloud has significant benefits to healthcare IT, but cloud alone is not always the best solution for offloading core applications. To begin building an edge computing ecosystem, organizations need to define a use case that touches on an aspect of an organization including IT, patient care, and management. Healthcare organizations should consider which of their healthcare functions can benefit from edge services, such as the delivery of EHR systems, digital imaging, X-rays, and support for telemedicine solutions. Organizations should assess how fast the organization is growing, how supportive the network needs to be for remote users, and what connected devices will be added in the near or distant future. Once these points are addressed, organizations can begin to identify vendors that might best suit their needs. Connecting with vendors that can showcase a strong healthcare based edge computing background is critical to building a successful edge network. Many IT departments may not already have staff that can successfully architect and deploy an edge solution. Organizations that attempt to deploy an edge network without sufficient the expertise can end up wasting money. Initial edge network deployment can be costly and so are the mistakes associated with it. “Edge is not like a typical data center. There are different considerations around space, density, power, management, connectivity, redundancy, and much more,” says Kleyman. “This is why working with the right people can make the entire process so much easier.” Once the project is set in motion, organizations need to define. Edge computing approaches data access and storage differently than legacy solutions so organizations need to take the time to define data requirements and management policies. Deciding if the data is transient or being stored at the edge, what data is being processed, and what the connectivity control method around the data is needs to be defined and integrated into the edge solution, according to Kleyman. Defining these elements and integrating them leads to adding and testing compliant security for the edge. Organizations should consider the location of the edge, the storage systems at the edge, how much data will me processed, and who will have access in order to build a compliant edge security system. Once organizations clearly define what they want from edge computing and what they need to do to support it, they can take advantage of benefits that include: Data proximity and efficiency IoT data and health care provider system integration Better and more informed data around patient health Telemedicine Patient monitoring that leverages medical devices such as insulin pumps, smart lenses and pacemakers Wearables and connected apps that track various health metrics Edge computing help improve patient care as well as increase efficiency from a business perspective. By spreading out the network, organizations can enhance productivity by concentrating resources on certain tasks and making health IT systems more efficient by decentralizing IT infrastructure. “Edge computing can help you reduce transmission costs, improve delivery services, and impacts peoples’ lives,” said Kleyman. “Most of all, you make healthcare so much easier to consume by bringing it closer to the people that need it the most.” Tagged Edge Computing EHR Healthcare Cloud Healthcare Cloud Applications Related Articles UC San Diego Begins Cloud Infrastructure Migration with Epic EHR Healthcare Cloud IT Infrastructure Grows as Data Demands Rise Healthcare Cloud Addresses Specific HIT Infrastructure Needs Related Resources Contact Centers in Healthcare: A Report for Hospital Leaders How Northwell is Eliminating Duplicate Records Once and For All Improve EDPS/RAPS Submission Rates and Recapture Revenue Sign up to receive our newsletter and access our resources Newsletter Signup  IT Infrastructure (Weekly)  mHealth & Telehealth (Weekly)  EHR and Meaningful Use (Twice Weekly)  Revenue Cycle (Twice Weekly)  Health Analytics (Twice Weekly)  Patient Engagement (Weekly)  Health IT Security (Twice Weekly) view our privacy policy Most Read Stories Top 10 Cloud Data Storage Companies Anthem, doc.ai Launch Healthcare AI Data Trial on Blockchain How Will Amazon, Google, Microsoft Impact EHR Interoperability, FHIR? APIs Are the “Missing Piece” for Healthcare App Interoperability   Popular Topics Healthcare Cloud Healthcare Network Security Healthcare Internet of Things Wireless Networking Data Storage Virtualization Interoperability Healthcare Cloud Applications Health IT Infrastructure EHR Most Read Features Healthcare Data Storage Options: On-Premise, Cloud and Hybrid Data Storage Planning for Data Backup, Recovery in Health IT Infrastructure Why Application Programming Interfaces Are Key for Healthcare Addressing Healthcare Network Connectivity Challenges ShareThis Copy and Paste
+
+
+
+ 
+Search...
+AboutContactAdvertiseTechPro magazineTechCentral.ie logo 
+TechLife
+TechPro
+TechTrade
+TechRadio
+TechBeat
+Blogs
+
+
+Enabling easier security in an age of the dissolving perimeter
+Paul Barnes, Webroot
+A proliferation of devices requires a multi-layered management strategy, says Webroot's Paul Barnes
+
+Print
+
+Pro
+Read More: Insights webroot
+
+4 September 2018 | 0
+We have been accelerating towards an off-premise world for some time, and this has significant implications for security. Growing numbers of small and medium-sized businesses are pushing more services up to the cloud. Although this has helped reduce the number of servers they physically host in their own offices, it has been accompanied by an increase in the number of other computing devices that are now used.
+
+This trend has allowed employees access to business services from anywhere, but while it has improved productivity it has increased security challenges for administrators who need to maintain visibility and control over those roaming assets. As the traditional network perimeter effectively dissolves, businesses need to do more to ensure robust security.
+
+With the number of devices the typical roaming user owns growing, it is still important to deploy endpoint security and provide Web filtering for those users on those devices, but that’s effectively just table stakes and can be challenging to gain 100% coverage especially with BYOD.
+
+A solid strategy to protect those software-as-a-service apps is to offer multi-factor authentication (MFA), which is a useful way to prevent logins to sensitive services from being compromised. The administrator can strike the balance with security and user experience by employing IP whitelisting on these services to only enable MFA to SaaS services from unknown IPs or increase security further by blocking access entirely from unknown IPs, effectively ensuring employees who are accessing applications on the move to use the company’s VPN.
+
+The next issue to address is the classic scenario involving remote workers catching up on emails while they’re connected to a Wi-Fi hotspot. At Webroot, we have been tracking an interesting attack that uses what’s commonly called a Wi-Fi pineapple: this is a cheap device that steals data from public wireless networks.
+
+It exploits the fact that devices continuously attempt to reconnect to previously accessed networks – and imitates these previous networks fooling the device into connecting to it. The risk is that employees within range of are leaving themselves open to having their credentials stolen. This could potentially give attackers access to personal online banking services, or business applications which could be a way in to the company network.
+
+Awareness of these attacks is critical for businesses and their employees, as mitigation comes with ensuring that you never connect to an open Wi-Fi network, also, always using a VPN when connecting via any untrusted network is vital.
+
+Webroot believes that the employee is often the weakest link in your security, so we recommend that a robust security awareness programme should be at the centre of all security initiatives. This can dramatically reduce the downstream cyber security risk for the company.
+
+Webroot also understands the problem small to medium businesses face, with limited budgets and a lack of skilled in-house resources. At Webroot, we try and help address this challenge by building automation into our security services.
+
+Whether the issue calls for blocking malware, filtering web traffic or even educating employees on security best practices, this minimises the need for administrators to intervene and allow them to focus on other aspects of managing the IT for their business.
+
+For SMBs that are pressed for time, talent, and money, we feel this move towards greater education and automation is an important development in helping them to stay on top of their company’s security.
+
+Paul Barnes, is senior director, product strategy, at Webroot
+
+Webroot is giving TechCentral readers a free one-month trial of its business products. To avail of this exclusive offer, visit www.webroot.com/Bundle-Free-Trial/Media-Team.
+
+ 
+
+ 
+
+ 
+
+TwitterFacebookLinkedInRedditSlashdotEmailShare
+Share:
+Read More: Insights webroot
+
+
+More Articles
+? Previous 
+Related Articles
+ 
+Getting the right HR tech for your company ?
+ 
+Plotting a path to the cloud based on a solid business case ?
+
+
+Today's Technology Minute
+Stay on top of the day's tech news with our free Technology Minute e-mail newsletter - just add your e-mail here
+
+ 
+Polls
+Does your organisation currently use AI technology?
+
+ Yes No
+
+See other polls >
+Events
+Wed 5 Sep–Thu 6 Sep
+DigiMarCon Ireland 2018
+Sofitel London Heathrow Hotel
+
+Wed 5 Sep 9:00am to 1:30pm
+Industry and Entrepreneurship Session at Photonics Ireland
+Pairc Ui Choimh
+
+View All Events
+
+Submit Your Event
+
+
+A-Z Brand index
+Click here to go to our index for resellers to source brands and determine who distributes them locally.
+
+More from this Channel
+Enabling easier security in an age of the dissolving perimeter
+A proliferation of devices requires a multi-layered management strategy, says Webroot's Paul Barnes
+
+Essential topics for every security training programme
+A thorough end-user education programme is a necessary weapon in the battle to protect the organisation
+
+RPA: a revolution in business process automation
+CIOs are turning to robotic process automation to eliminate tedious tasks, freeing corporate workers to focus on higher value work
+
+OpenStack Rocky builds on automation, upgrades and usability
+Eighteenth iteration promises much
+
+IoT gets smarter but still needs backend analytics
+Most IoT devices lack the computational power for the level of ML necessary for truly smart IoT deployments
+
+
+
+
+TechLife TechPro TechTrade TechRadio TechBeat Blogs
+Privacy Policy Sitemap About Contact Advertise
+Tech Central  Tech Fire  Tech Trade  ICT Excellence Awards  Tech Pro Tech Beat
+Published by Mediateam Ltd., Ireland technology media leader since 1976,
+55 Spruce Ave, Sandyford, Dublin 18, A94 N125.
+
+
+
+
+
+
+This website uses cookies
+We use cookies to enchance your visit and to personalise our content, social media features, ads and to analyse our traffic. You consent to our cookies if you continue to use our website. You can at any time change or withdraw your consent by clicking on show details. Read our Privacy and Cookie Policy to know more.
+
+OK Settings
+Skip to content
+Subscribe to our Magazine and Newsletter
+NewsLetters
+
+Subscribe to our Highly Popular Newsletters.
+Click Here
+global banking finance review logo
+CALL FOR ENTRIES Call For Entries
+2018 Global Banking & Finance Awards now open. Click Here
+TOP STORIES
+INTERVIEWS
+BUSINESS
+FINANCE
+BANKING
+TECHNOLOGY
+INVESTING
+TRADING
+NEWS
+EVENTS
+VIDEOS
+AWARDS
+SHOP
+MAGAZINES
+SEARCH
+Quantum computers: cyber-security threats for the banking and financial sector
+September 1, 2018
+Quantum computers: cyber-security threats for the banking and financial sector
+By Elisabetta Zaccaria, Chairman, Secure Chorus
+
+Secure Chorus Chairman Elisabetta Zaccaria discusses the risk posed by quantum computers to information security in the banking and financial sector, and explains how current encryption methods need to be upgraded with ‘quantum-safe’ equivalents.
+
+Quantum related technologies have the potential to massively disrupt financial services industry, in terms of the opportunities that such computing power will enable. However, with these opportunities also come information security threats, as current encryption methods become simpler  to break.
+
+While quantum computers won’t become mainstream until around 2025, the banking and wider financial sector that process sensitive data and are required to archive data over long time-frames (up to a decade or more), need to start planning for a post-quantum computing world. Quantum computers represent such an advance in computational power that they have the potential to expose the financial sector to systemic breaches of existing security measures. Such developments could be disastrous for the financial sector if they are not properly anticipated and managed.
+
+The main difference between currently deployed (so-called ‘classic’) computers and quantum computers is that classic computers operate on ‘Bits’ (zero or one), while quantum computers make use of a quantum-mechanical phenomenon that represents data as ‘Qubits’ (zero, one, or a little bit of both). A set of Qubits can represent exponentially more values than their ‘Bit’ counterparts, allowing them to interact and deliver computation and algorithm solving rates several orders of magnitude faster than with today’s more conventional technology.
+
+Elisabetta Zaccaria
+Elisabetta Zaccaria
+Quantum-related technologies have the potential to massively disrupt the financial services industry: in algorithmic trading, fraud detection, and encryption and transaction security. But, in the wrong hands, quantum computers will also be able to break, or significantly weaken the public key encryption that protects the majority  of the data, software updates and technology now in use. It is expected that this will be achievable in the next 5-10 years. This means there is now a pressing need to develop public key encryption capable of resisting such quantum attacks. Lack of quantum-safe public key encryption could result in a systemic failure of the current banking and financial sector approach to information security, while exposing large volumes of high-value data.
+
+The significance of the problem for the financial sector cannot be overestimated. Today, fraud linked to on-line banking as well as e-commerce transaction is an ever-growing issue in the classic computing world. In the future, quantum computers, with their ability to break current public key cryptography, may push on-line fraud from what is currently a manageable problem to subjecting the financial sector to systemic breach scenarios.
+
+Recent fintech innovations are also at risk. Many blockchain-based technologies rely on the Elliptic Curve Digital Signature Algorithm (ECDSA): an algorithm that is not currently ‘quantum safe’. This places the burgeoning cryptocurrency markets at risk, as quantum computers will in all probability break the underlying cryptography at the core of these technologies, leading to cyber bank robberies of a previously unseen magnitude.
+
+One method of developing quantum-safe public key cryptography is the deployment of a new set of public key cryptosystems for classic computers capable of resisting quantum computer attack. These cryptosystems are called ‘quantum-safe’ or ‘post-quantum cryptography’. The principle behind them is the use of mathematical problems of a complexity beyond quantum computing’s ability to solve them. The information security industry currently recognises five types of cryptosystems as promising replacement candidates for current cryptography. These are: hash-based, code-based, lattice-based, multivariate-based and supersingular isogeny-based. International standards bodies, including the National Institute of Standards and Technology (NIST), are currently in the process of conducting more analysis and research before they can go forward on determining which of these to adopt.
+
+Secure Chorus is a not-for-profit membership organisation providing thought leadership, common interoperability standards and tangible capabilities for the information security industry. We recently collaborated with our partner member, ISARA Corporation, to produce a white paper about post-quantum cryptography.ISARA Corporation, a leader in post-quantum cryptography, is committed to the collaborative development of quantum-safe standards at the European Telecommunications Standards Institute (ETSI). ISARA,is also working with Secure Chorus, to evolve Secure Chorus’ cryptography standard of choice – MIKEY-SAKKE ­– to become quantum-safe.
+
+Entitled ‘The Quantum Revolution: Security Implications and Considerations’, the paper provides a framework for assessing if and when organisations need to start working on protecting themselves against the threat posed by quantum computers. It also addresses the key considerations an organisation needs to take into account when migrating to a new cryptography standard. The paper introduces the MIKEY-SAKKE identity-based public key open cryptography standard, and explains that this cryptography standard, if made quantum safe, would continue to offer its unique combination of benefits for the financial sector.
+
+MIKEY-SAKKE identity-based public key cryptography provides for end-to-end encryption and can be used in a variety of environments, both at rest (e.g. storage) and in transmission (e.g. network systems). Designed to be centrally managed, it gives financial institutions full control of system security as well as the ability to comply with any auditing requirements, through a managed and logged process. Additional benefits include scale and flexibility.
+
+MIKEY-SAKKE has been developed by the UK government’s National Technical Authority for Information Assurance (CESG), which advises on how to protect information and information systems against today’s threats. CESG is now part of the National Cyber Security Centre (NCSC) and a government member of Secure Chorus. MIKEY-SAKKE was standardised by the Internet Engineering Task Force (IEFT). It has also recently been approved by the 3rd Generation Partnership Project (3GPP), the body responsible for standardising mobile communications for use in critical applications,hence receiving endorsement at global level for its innovative approach to public key cryptography. MIKEY-SAKKE is the Secure Chorus open cryptography standard of choice for its work on interoperability standards for its members’ information security products.
+
+While it is likely to be a decade before quantum computing starts to significantly affect the financial services industry, the potential impact of this technology means that banking and financial sector must begin to prepare for its arrival now. In security terms, this should be done through quantum risk assessments as well as investment in well-recognised and endorsed quantum-safe public-key cryptography.
+
+This article is based on a new white paper entitled ‘The Quantum Revolution: Security Implications and Considerations’ co-authored by Secure Chorus and the ISARA Corporation.
+
+To download your free copy go to the Secure Chorus website www.securechorus.org
+
+Dont Miss Out!   
+Subscribe To Our Newsletter
+      Be the first to get the latest updates and exclusive content 
+straight to your inbox 
+
+Enter Your Email Address
+Submit
+
+Give it a try. It is Free and you can unsubscribe anytime .
+
+ 
+Search for:
+Search …
+Advertisements
+
+
+Subscribe to Magazines
+
+subscribe to magazines
+Magazine
+
+ GBAF Magazine issue 12
+About usProfile & ReadershipPrivacy & Cookie PolicyTerms of UseSubmit ArticlesTestimonialsGallery
+ Global Banking & Finance Review small logo Global Banking & Finance Review® is a leading financial portal and Print Magazine offering News, Analysis, Opinion, Reviews, Interviews & Videos from the world of Banking, Finance, Business, Trading, Technology, Investing, Brokerage, Foreign Exchange, Tax & Legal, Islamic Finance, Asset & Wealth Management. Copyright © 2010-2018 GBAF Publications Ltd - All Rights Reserved.
+ 
+About Us
+ 
+Strategic Partners
+ 
+Weekly Feature Debates
+ 
+Contact Us
+ 
+Privacy Policy
+ Business News Wales - Showcasing the Best of Welsh Business
+
+HOME
+ 
+SECTORS
+ 
+REGIONS
+ 
+EVENTS
+ 
+BUSINESS ZONE
+How Cloud Computing can Help your Business
+NEWPORT SOUTH WALES TECHNOLOGY
+SHARE    
+ KEVIN WARD , 4TH SEPTEMBER 2018
+intY is an award-winning distributor of cloud services from the biggest cloud software vendors in the world.
+
+In the run up to its flagship festival, intY CloudFest 2018, taking place at the Celtic Manor in Newport next month, intY CEO Craig Joseph tells Business News Wales how small businesses can benefit from cloud technology…
+
+Use of the cloud is fast becoming the new normal. Last year, cloud adoption for UK businesses reached 88% – a figure which is continuing to grow. The long and short of it is, if your business isn’t using cloud technology, you’re already behind.
+
+That’s not to say you should commit to the cloud because everyone else has. Cloud technology can however mean big positive changes for your small business.
+
+What is cloud computing?
+
+Cloud computing relies on shared computing resources rather than a local server or personal computer. It allows businesses to use a remote network of servers hosted on the internet to store and manage data.
+
+Cloud technology brings flexibility to organisations as applications, business data and files are held in the tech giants’ secure data centres. So, whether you’re working from the office, home or abroad, cloud technology enables you to access all business data from anywhere with an internet connection. This offers several benefits to small business owners in terms of accessibility, security, cost and time. Put simply, cloud computing makes life easier for you and your clients/customers.
+
+Lower costs
+By using cloud technology, you’re effectively renting a service rather than buying a product. You will only pay for the services you use, when you use them, and the maintenance will be dealt with by the host vendors, saving thousands of pounds on expensive hardware and software, IT requirements and power usage over the years.
+
+Flexibility
+One of the biggest advantages of cloud computing is the ability to access files from anywhere at any time, on any device. The cloud allows for flexible working arrangements and remote workers. It gives you and your employees the ability to simultaneously share and edit files, supporting both internal and external collaboration. Gone are the days when files were stuck on a single server. You can also flex the amount of software licences up and down as you need them, meaning you only pay for what you use on a monthly basis.
+
+Security
+If you store your files on your laptop or phone, the loss of that device will also mean the loss of your files. Cloud computing offers greater security in these scenarios, allowing you to rest easy in the knowledge that no matter what happens to your hardware, files can be accessed and even wiped remotely to ensure that private information never ends up in the wrong hands.
+
+Disaster recovery
+In a similar way to the security benefits of the cloud, disaster recovery is another reason why cloud computing is a good move for small businesses. If you still rely on local hardware to store business-critical data, and that hardware is damaged, you could be looking at a long – and expensive – road to recovery. Storing data in the cloud means that files are backed up as soon as they are changed and saved with minimal human input.
+
+So, what’s not to love about cloud computing?
+
+You can learn more about cloud technology, adopting a multi-cloud strategy and much more at intY CloudFest 2018. Taking place on September 19 and 20 at Celtic Manor Resort, Newport, intY CloudFest will combine exclusive training sessions and insightful talks with masterclasses and keynote sessions, giving attendees the opportunity to learn about emerging trends and technologies in the cloud industry. The event kicks off with a competitive round of golf at the Resort, which hosted the 2010 Ryder Cup, with teams made up of delegates, intY execs, and golfers from top cloud companies Microsoft, Symantec, Acronis & Comodo.
+
+For more information and to secure your place at intY CloudFest 2018, go to: intycloudfest.com
+
+Related
+Where is your Data? Businesses Need to Question the Security of Their Information
+6th February 2017
+In "Digital Innovation"
+Six Security Predictions for 2018
+22nd December 2017
+In "Home Page"
+National Digital Maturity Survey for Wales, 2017
+6th October 2017
+In "Digital Innovation"
+SHARE
+   
+Next Article
+North Wales Attraction Quadruples Visitor Numbers and Invests £1.6M
+Previous Article
+International Fintech Powerhouse Announces Partnership with Welsh Football
+ 
+Kevin Ward
+Kevin Ward was the Editor of the South Wales Argus from 2012-2016 and has joined Business News Wales as an editorial consultant, with a specific brief to expand and improve the site’s coverage of the business scene in Newport.
+
+During an award-winning 32-year career in regional journalism, Kevin was also Editor of the Worcester Evening News and held a number of other senior editorial and commercial positions with leading publisher Newsquest.
+
+Kevin has lived in Newport for almost 30 years and has an unrivaled set of contacts across the city.
+
+Since 2017, he has been running Kevin Ward Media Ltd – a public relations, media and management consultancy. His clients include the Newport Now Business Improvement District.
+
+Kevin also has a number of unpaid non-executive directorships in Newport, sitting on the boards of Newport County AFC, Newport Live, Newport City Homes and the Kaleidoscope Project.
+
+ 
+RELATED ARTICLES
+ Work Starts in Newport on the UK’s First Proton Beam Therapy Centre
+Work Starts in Newport on the UK’s First Proton Beam Therapy Centre
+ Will ‘The Newport Now Bid’ Draw in Support from the Region’s Top Businesses?
+Will ‘The Newport Now Bid’ Draw in Support from the Region’s Top Businesses?
+ Massive Investment Sees South Wales Company Broaden its Horizons
+Massive Investment Sees South Wales Company Broaden its Horizons
+ 
+
+
+
+Search
+ABOUT BUSINESS NEWS WALES
+In creating Business News Wales, we aim to provide a voice for all Welsh businesses. With no political views or editorial agenda, our goal is to create the number one based source of business news in Wales, creating a level playing field for every business no matter of its size.
+CONTACT US
+Contact Us
+RECENT POSTS
+28th September – Cardiff
+Business Networking
+23rd October – Cardiff
+Introducing Usability Testing
+19th September – Cardiff 
+Introducing Agile Working
+19th September – Crosskeys
+Breakfast Briefing: Dignity at Work
+20th September – Cardiff 
+Meet:Market 5: Content Marketing
+POST
+ <strong>28th September – Cardiff</strong><br>Business Networking
+28th September – Cardiff
+Business Networking
+ <strong>23rd October – Cardiff</strong><br>Introducing Usability Testing
+23rd October – Cardiff
+Introducing Usability Testing
+ <strong>19th September – Cardiff </strong><br>Introducing Agile Working
+19th September – Cardiff 
+Introducing Agile Working
+ <strong>19th September – Crosskeys</strong><br>Breakfast Briefing: Dignity at Work
+19th September – Crosskeys
+Breakfast Briefing: Dignity at Work
+© 2018 Business News Wales Ltd.
+
+
+MENU
+ Fifth Domain Civilian DoD Congress Critical Infrastructure International Workforce Industry Thought Leadership
+ 
+Civilian
+DoD
+Congress
+Critical Infrastructure
+International
+Workforce
+Industry
+Thought Leadership
+Videos
+Newsletters
+© 2018 Sightline Media Group
+Trending:  Microsoft uncovers Russian attacks  China is hacking trade partners  Trump changes cyber policy  Supply chain vulnerabilities
+
+Opinion
+How the Pentagon’s new cloud initiative ignores the quantum threat
+By: Tom Keelan     1 hour ago
+26
+ 
+(sakkmesterke/Getty Images)
+If the Pentagon doesn’t start thinking about how emerging technologies will interact, it could miss its best opportunity to secure U.S. military secrets for the future. Next month, bidding will close on the multi-billion contract to move military IT systems to the cloud, the so-called Joint Enterprise Defense Infrastructure (JEDI). But while the Pentagon focuses on the security benefits of one emerging technology – cloud computing – it is ignoring the accompanying threat of another: quantum hacking.
+
+Within the next decade, cybersecurity experts predict that quantum computers may be able to break many types of modern encryption. This includes the types used to secure data going to and from the cloud. Yet nowhere in the draft contract for JEDI is the threat of quantum hacking addressed.
+
+If the Department of Defense wants the next generation of military secrets to stay secret, then it must start thinking of these two emerging technologies in combination, not isolation. The JEDI cloud therefore offers a chance to kill two birds with one stone: to proactively use today’s shift to cloud computing as a chance to also prepare for the future threat of quantum computers.
+
+Since World War II, military operations have become increasingly data and network-centric. The latest example of this trend was the DoD’s Third Offset Strategy, which focused on technological superiority to deter, outmaneuver, and if necessary defeat America’s opponents. Now cloud computing is the latest high-tech advance to improve military performance. Moving more IT systems to the cloud will give America’s military more efficiency and flexibility in using data, an edge that one day might prove critical.
+
+
+But cloud computing could also become a double-edged sword. Centralizing much of the Pentagon’s IT operations in a single cloud ecosystem will make the military more productive and adaptable, but it also raises a huge security concern.
+
+The U.S. military already struggles with theft of state secrets. For example, in June it was discovered that China had stolen over 600 gigabytes of classified U.S. submarine warfare data. A monolithic, single-source JEDI cloud could pose an even greater cybersecurity risk. For the first time, many different kinds of classified information – possibly including nuclear weapon designs – may be found in the same place. To hostile actors this will make JEDI an irresistible target.
+
+And when quantum computers arrive, they will have the power to knock the locks off the JEDI treasure chest. Quantum processors work with quantum bits, or qubits, that exist as both a one and a zero at the same time, potentially providing significantly more computing power than current digital technology. That dramatically increased computing power poses a threat to the modern cryptography system by cracking the complex math puzzles that most digital encryption (including cloud encryption) is based on.
+
+However, DoD’s real quantum encryption problem is based on logistics, not computing. A quantum computer capable of hacking cloud encryption is not estimated to arrive until at least 2026. And cybersecurity experts have already developed new, quantum-secure cryptography to protect our data from these future attacks.
+
+But these same experts have highlighted how it can take big organizations like DoD up to 10 years to fully change their encryption. In industry speak, they have limited “crypto-agility.” Even if the DoD starts now, it will be a neck-and-neck race to make military data quantum-secure before the arrival of quantum hacking.
+
+
+That is why making JEDI quantum-secure is so important for the military’s future data security. As Alan Panezic, vice president of cybersecurity firm ISARA states: “The DoD has to embrace cryptographic agility now. By moving to the cloud, you’re already fully analyzing all aspects of security and efficiency, and so it’s the easiest time to figure out where your quantum weaknesses are. If you don’t, it’s a huge lost opportunity.”
+
+Yet right now this is exactly the opportunity the Pentagon is passing up. As the cloud, quantum, blockchain and AI start to converge and become part of standard military operating procedure, a mindset that ignores how they’ll interact risks America falling increasingly behind the pace of its competitors.
+
+The move to a military cloud is a timely and crucial one, but by thinking about JEDI in isolation and ignoring the emerging threat of quantum technology, the DoD is setting itself up for a future crisis. If preparations for a quantum-equipped adversary don’t begin now, one day soon the cloud will start raining American secrets.
+
+Tom Keelan is a research associate at the Hudson Institute working on the national security implications of emerging technologies.
+
+
+
+26
+Recommended for you
+
+Exclusive peek inside Cyber Command's premiere annual exercise: Cyber Flag
+ 
+Cyber Command granted new, expanded authorities
+ 
+NSA criticized for 'increased risk’ of jeopardizing civil liberties
+ 
+Sentencing date set for Air Force veteran who leaked secrets
+Around the Web
+Comments
+
+Most Watched Videos
+? Play
+Is your agency switching to the cloud? Here's what you need to know
+Grant Wernick of Insight Engines has some advice for large organizations switching to the cloud. (Daniel Woolfolk/Staff)
+ promo
+U.S. officials: Election safety is a top priority
+ Play Video
+ promo
+Nakasone confirms special Russia unit
+ Play Video
+ promo
+Quantum computing explained
+ Play Video
+ 
+Top Headlines
+How the Pentagon’s new cloud initiative ignores the quantum threat
+Why open-sourced code can boost cybersecurity
+Federal supply-chain threats quietly growing
+And after the Space Force, a Subterranean Force?
+
+ 
+ 
+ Newsletters  Contact Us
+Facebook
+ 
+Twitter
+ 
+LinkedIn
+ https://www.fifthdomain.com © 2018 Sightline Media Group
+Not A U.S. Government Publication  
+Civilian  DoD  Congress  Critical Infrastructure  International  Workforce  Industry  Thought Leadership
+Terms of Use
+Terms of Service
+Privacy Policy
+Get Us
+Newsletters & Alerts
+RSS Feed
+Contact Us
+Help & Contact Info
+Advertise
+About Us
+About Us
+Careers
+Military News  Air Force News  Army News  Marine Corps News  Navy News  Defense News  Federal News  C4ISR  Cyber  History
